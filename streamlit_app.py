@@ -73,7 +73,7 @@ if streamlit.button('Add a Fruit to the List'):
 streamlit.write('Thanks for adding', add_my_fruit)
 
 # don't run anything past here while we troubleshoot
-streamlit.stop()
+# streamlit.stop()
 #Thsi will not work correctly, but just go with it for now
 
 
